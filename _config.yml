@@ -23,10 +23,10 @@ repository               : "djakacki/djakacki.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "DianeJakacki.jpg"
   name             : "Diane Jakacki"
   pronouns      :  "she/her"  
-  bio                  : "is Professor of Practice and Coordinator of Digital Humanities Research at Bucknell University. She researches DH pedagogy and early modern drama. She is lead investigator on the REED London project on the Canadian Writing Research Collaboratory as well as the LEAF@Bucknell installation of the Linked Editing Academic Framework (LEAF). She serves on the Board of the Text Encoding Initiative. She was Fulbright Canada Research Chair in Digital Humanities, 2022-3"
+  bio                  : "Professor of Practice and Coordinator of Digital Humanities Research at Bucknell University."
   location         : "Lewisburg, PA"
   employer       : "Bucknell University"
   uri              : # URL
