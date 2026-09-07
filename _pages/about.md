@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I work at Bucknell University.
-
 My research sits at the meeting point of early modern performance history and
 digital scholarly practice. On one side, that means the drama itself: title-page
 illustration, touring players, city comedy, and the ways printed playbooks
@@ -28,6 +26,6 @@ I currently serve on the Board of Directors for the Text Encoding Initiative Con
 I previously held a series of service positions with the Alliance of Digital Humanities Organizations [ADHO](https:adho.org). 
 
 I have co-edited three volumes: 
-*What We Teach When We Teach DH* (U Minnesota Press Debates in DH series, 2023) and *Teaching Text Encoding* (U Minnesota Press, Forthcoming in 2027) 
+*What We Teach When We Teach DH* (U Minnesota Press Debates in DH series, 2023) and *`<teaching>`: Text Encoding as Humanities Pedagogy* (U Minnesota Press, Forthcoming in 2027) 
 , both with Brian Croxall; and *Early Modern Studies After the Digital Turn* with Laura Estill and Michael Ullyot (ITER Press 2016).
 
