@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Professor of Practice and Coordinator, Digital Humanities Research at Bucknell University.
+I work at Bucknell University.
 
 My research sits at the meeting point of early modern performance history and
 digital scholarly practice. On one side, that means the drama itself: title-page
