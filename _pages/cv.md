@@ -70,9 +70,8 @@ Principal Investigator (under review)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+A complete, MLA-formatted list of volumes, editions, chapters, articles, and
+reviews is on the [Publications](/publications/) page.
 
 Talks and Presentations
 ======
@@ -83,13 +82,6 @@ Teaching
 ======
 Courses, institute instruction, and mentorship are listed on the
 [Teaching](/teaching/) page.
-
-Peer Review
-======
-* *Digital Humanities Quarterly*
-* *Digital Scholarship in the Humanities*
-* *Renaissance Quarterly*
-* *Journal of Digital Culture and Electronic Scholarship*
 
 Service: Directorships and Advisory Boards
 ======
